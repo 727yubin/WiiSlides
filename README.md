@@ -11,7 +11,9 @@ Use your Wii Remote as a clicker for presentations.
 
 ## Getting started
 
-Run the program and press 1 and 2 on your Wii Remote. Once the LEDs stop blinking, it means it is connected. Try pressing buttons on the D-Pad to verify: the cursor should move.
+1. Download wiimote.pyw.
+2. Run the program and press 1 and 2 on your Wii Remote. Once the LEDs stop blinking, it means it is connected.
+3. Try pressing buttons on the D-Pad to verify: the cursor should move.
 
 ## Features(or what the buttons do)
 
@@ -26,6 +28,8 @@ Run the program and press 1 and 2 on your Wii Remote. Once the LEDs stop blinkin
 
 The LEDs show battery level, with 4 being full and 1 being almost empty.
 
+## Troubleshooting
+If you did press 1 and 2 but cannot seem to connect, try using the red SYNC button next to the batteries.
 
 ## To Do:
 - Toggle vibrations
