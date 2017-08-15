@@ -6,8 +6,8 @@ Use your Wii Remote as a clicker for presentations.
 - A Wii Remote (not sure if it works for ones with MotionPlus)
 - A computer running Linux with Bluetooth(X should be fine, but not sure about Wayland)
 - Python **2.** Support for Python 3 will be availible once CWiid-python is ported to Py3.
-- CWiid-python (you should be able to download it using `sudo pip install cwiid` )
-- xdotool ( `sudo apt-get install xdotool` or `sudo dnf install xdotool` )
+- CWiid-python (you should be able to download it using `sudo pip install cwiid`)
+- xdotool (`sudo apt-get install xdotool` or `sudo dnf install xdotool`)
 
 ## Getting started
 
