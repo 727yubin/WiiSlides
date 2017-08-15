@@ -1,7 +1,7 @@
-## WiiSlides
+# WiiSlides
 Use your Wii Remote as a clicker for presentations.
 
-<h2>Requirements: </h2>
+## Requirements:
 <ul>
 	<li> A Wii Remote (not sure if it works for ones with MotionPlus)
 	<li> A computer running Linux with Bluetooth(X should be fine, but not sure about Wayland)
@@ -10,7 +10,7 @@ Use your Wii Remote as a clicker for presentations.
 	<li> xdotool ( `sudo apt-get install xdotool` or `sudo dnf install xdotool` )
 </ul>
 
-<h2>Getting started</h2>
+## Getting started
 
 Run the program and press 1 and 2 on your Wii Remote. Once the LEDs stop blinking, it means it is connected. Try pressing buttons on the D-Pad to verify: the cursor should move.
 
@@ -29,7 +29,7 @@ Run the program and press 1 and 2 on your Wii Remote. Once the LEDs stop blinkin
 The LEDs show battery level, with 4 being full and 1 being almost empty.
 
 
-<h2> To Do: </h2>
+## To Do:
 <ul>
 	<li> Toggle vibrations
 	<li> Make code more readable
