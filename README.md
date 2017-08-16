@@ -21,7 +21,7 @@ Use your Wii Remote as a clicker for presentations.
 - Button A: Right Arrow (vibrate once)
 - Button B: Left Arrow (vibrate twice)
 - Minus Key: Escape
-- Home Key: <kdb> ALT </kbd> + <kbd> F4 </kbd> then runs `sudo poweroff` after 5 seconds
+- Home Key: <kdb> Alt+F4 </kbd> then runs `sudo poweroff` after 5 seconds
 - Plus Key: F5
 - Button 1: Left click
 - Button 2: Right click
