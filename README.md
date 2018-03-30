@@ -1,5 +1,5 @@
 # WiiSlides
-Use your Wii Remote as a clicker for presentations on linux. For Windows please follow the link in the "To Do" section at the bottom.
+Use your Wii Remote as a clicker for presentations on linux. Please send an email for Windows, which requires third-party software.
 
 ## Requirements:
 
@@ -34,4 +34,3 @@ If you did press 1 and 2 but cannot seem to connect, try using the red SYNC butt
 ## To Do:
 - Toggle vibrations
 - Make code more readable
-- Port to Windows. The main issue I am having with this is making Python deal with Bluetooth. Once the solution is found, it should be working. Meanwhile, there is a more "hacky" version requiring different software [here](https://www.instructables.com/id/Use-a-Wii-Remote-to-Control-a-Computer/).
