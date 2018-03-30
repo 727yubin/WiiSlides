@@ -1,5 +1,5 @@
 # WiiSlides
-Use your Wii Remote as a clicker for presentations on linux. Please send an email for Windows, which requires third-party software.
+Use your Wii Remote as a clicker for presentations on linux. Please send me an email for Windows, which requires third-party software.
 
 ## Requirements:
 
