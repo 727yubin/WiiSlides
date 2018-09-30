@@ -29,3 +29,5 @@ The LEDs show battery level in binary.
 
 ## To Do:
 - Test on Fedora(Wayland)
+
+Credits to https://github.com/ipswichmakerspace/TractorBot/tree/master/software for list of dependencies for cwiid.
