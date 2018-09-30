@@ -1,13 +1,13 @@
 # WiiSlides
-Use your Wii Remote as a clicker for presentations on linux. Please send me an email for Windows, which requires third-party software.
+Use your Wii Remote as a clicker for presentations on linux.
 
 ## Requirements:
 
-- A Wii Remote (not sure if it works for ones with MotionPlus)
-- A computer running Linux with Bluetooth(X should be fine, but not sure about Wayland)
-- Python **2.** Support for Python 3 will be availible once CWiid-python is ported to Py3.
-- CWiid-python (you should be able to download it using `sudo pip install cwiid`)
-- xdotool (`sudo apt-get install xdotool` or `sudo dnf install xdotool`)
+- A Wii Remote
+- A computer running Linux with Bluetooth
+- Python 3
+- CWiid-python (you should be able to download it using `sudo pip3 install cwiid`)
+- xdotool (`sudo apt-get install xdotool`)
 
 ## Getting started
 
@@ -32,5 +32,6 @@ The LEDs show battery level, with 4 being full and 1 being almost empty.
 If you did press 1 and 2 but cannot seem to connect, try using the red SYNC button next to the batteries.
 
 ## To Do:
+- Test on Fedora(Wayland)
 - Toggle vibrations
 - Make code more readable
