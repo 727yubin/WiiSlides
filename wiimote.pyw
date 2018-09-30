@@ -1,9 +1,12 @@
-#!/usr/bin/env python
+#!/usr/bin/python3
 
-import cwiid, time, os, threading
+import cwiid
+import time
+import os
+import threading
 
 try:
-	os.system('zenity --info --timeout 2 --text "Press 1 and 2"')
+	os.system('zenity --info --timeout 2 --text "Please press SYNC next to batteries."')
 	wii=cwiid.Wiimote()
 except RuntimeError:
 	os.system('zenity --info --timeout 2 --text "Connection failed"')
