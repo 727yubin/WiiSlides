@@ -6,7 +6,7 @@ Use your Wii Remote as a clicker for presentations on linux.
 - A Wii Remote
 - A computer running Linux with Bluetooth
 - Python 3
-- CWiid-python (Follow instructions [here](https://github.com/azzra/python3-wiimote))
+- CWiid-python (Follow `Dependencies_instructions.md`)
 - xdotool (`sudo apt-get install xdotool`)
 
 ## Instructions
