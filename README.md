@@ -1,21 +1,21 @@
 # WiiSlides
 Use your Wii Remote as a clicker for presentations on linux.
 
-## Requirements:
+## Requirements
 
 - A Wii Remote
 - A computer running Linux with Bluetooth
 - Python 3
-- CWiid-python (you should be able to download it using `sudo pip3 install cwiid`)
+- CWiid-python (Follow instructions [here](https://github.com/azzra/python3-wiimote))
 - xdotool (`sudo apt-get install xdotool`)
 
-## Getting started
+## Instructions
 
 1. Download wiimote.pyw.
 2. Run the program and press 1 and 2 on your Wii Remote. Once the LEDs stop blinking, it means it is connected.
 3. Try pressing buttons on the D-Pad to verify: the cursor should move.
 
-## Features(or what the buttons do)
+## Key mapping
 
 - D-Pad: Move cursor
 - Button A: Right Arrow (vibrate once)
@@ -34,4 +34,3 @@ If you did press 1 and 2 but cannot seem to connect, try using the red SYNC butt
 ## To Do:
 - Test on Fedora(Wayland)
 - Toggle vibrations
-- Make code more readable
