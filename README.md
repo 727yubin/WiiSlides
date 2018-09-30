@@ -1,5 +1,5 @@
 # WiiSlides
-Use your Wii Remote as a clicker for presentations on linux.
+Use your Wii Remote as a clicker for presentations on Linux.
 
 ## Requirements
 
@@ -28,6 +28,6 @@ Use your Wii Remote as a clicker for presentations on linux.
 The LEDs show battery level in binary.
 
 ## To Do:
-- Test on Fedora(Wayland)
+- Make it easier to install for Fedora(dnf)
 
 Credits to https://github.com/ipswichmakerspace/TractorBot/tree/master/software for list of dependencies for cwiid.
