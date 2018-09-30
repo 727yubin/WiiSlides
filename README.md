@@ -31,3 +31,4 @@ The LEDs show battery level in binary.
 - Make it easier to install for Fedora(dnf)
 
 Credits to https://github.com/ipswichmakerspace/TractorBot/tree/master/software for list of dependencies for cwiid.
+Special thanks to https://github.com/azzra/python3-wiimote.git who finally ported cwiid to Python 3!!!
