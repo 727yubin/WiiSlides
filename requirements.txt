@@ -1,0 +1,13 @@
+gawk
+bison
+flex
+libbluetooth-dev
+install libgtk2.0-dev
+install libgtk2.0
+autoconf
+autogen
+automake
+bluetooth
+pkg-config
+python-dev
+xdotool
