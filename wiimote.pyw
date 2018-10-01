@@ -28,18 +28,8 @@ child_t.start()
 while 1:
     if (wii.state['buttons'] & cwiid.BTN_A):
         os.system('xdotool key Right')
-        wii.rumble = True
-        time.sleep(timeout/2)
-        wii.rumble = False
     if (wii.state['buttons'] & cwiid.BTN_B):
         os.system('xdotool key Left')
-        wii.rumble = True
-        time.sleep(0.1)
-        wii.rumble = False
-        time.sleep(0.1)
-        wii.rumble = True
-        time.sleep(timeout/2)
-        wii.rumble = False
     if (wii.state['buttons'] & cwiid.BTN_LEFT):
         os.system('xdotool mousemove_relative -- -5 0')
     if (wii.state['buttons'] & cwiid.BTN_RIGHT):
