@@ -17,8 +17,8 @@ Use your Wii Remote as a clicker for presentations on Linux.
 ## Key mapping
 
 - D-Pad: Move cursor
-- Button A: Right Arrow (vibrate once)
-- Button B: Left Arrow (vibrate twice)
+- Button A: Right Arrow
+- Button B: Left Arrow
 - Minus Key: Escape
 - Home Key: <kdb> Alt+F4 </kbd> then runs `sudo poweroff` after 5 seconds
 - Plus Key: F5
